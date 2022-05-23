@@ -1,2 +1,0 @@
-this is the file which name is b.txt
-this file is create to show how to add file in repo
